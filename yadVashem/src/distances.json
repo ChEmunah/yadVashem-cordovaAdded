@@ -1,0 +1,44 @@
+{
+ "distances":{
+     "WarsawGhetto":[
+         
+        {"name":"WarsawGhetto", "distance":0},
+        {"name":"GlidNandor", "distance": 100},
+        {"name":"FromHolocausttoRebirth", "distance":270},
+        {"name":"CattleCar", "distance":200},
+        {"name": "Entrance" , "distance" : 250}
+ ],
+     "GlidNandor":[
+         
+        {"name":"WarsawGhetto", "distance":100},
+        {"name":"GlidNandor", "distance": 0},
+        {"name":"FromHolocausttoRebirth", "distance":180},
+        {"name":"CattleCar", "distance":300},
+        {"name": "Entrance" , "distance" : 400}
+ ],
+     "FromHolocausttoRebirth":[
+         
+        {"name":"WarsawGhetto", "distance":270},
+        {"name":"GlidNandor", "distance": 180},
+        {"name":"FromHolocausttoRebirth", "distance":0},
+        {"name":"CattleCar", "distance":400},
+        {"name": "Entrance" , "distance" : 250}
+ ],
+     "CattleCar":[
+         
+        {"name":"WarsawGhetto", "distance":250},
+        {"name":"GlidNandor", "distance": 300},
+        {"name":"FromHolocausttoRebirth", "distance":400},
+        {"name":"CattleCar", "distance":0},
+        {"name": "Entrance" , "distance" : 400}
+ ],
+    "Entrance":[
+         
+        {"name":"WarsawGhetto", "distance":250},
+        {"name":"GlidNandor", "distance": 400},
+        {"name":"FromHolocausttoRebirth", "distance":250},
+        {"name":"CattleCar", "distance":400},
+        {"name": "Entrance" , "distance" : 0}
+    ]
+ }   
+}
