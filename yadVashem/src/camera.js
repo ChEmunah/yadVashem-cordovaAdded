@@ -4,22 +4,22 @@ import iconCamera from './images/iconCamera.png';
 export class Camera extends Component {
     constructor(props) {
         super(props);
-        this.state = { imageURL: '' }
-
+        
         this.cameraTakePicture = this.cameraTakePicture.bind(this);
         this.onSuccess = this.onSuccess.bind(this);
         this.onFail = this.onFail.bind(this);
-        this.shereImage  = this.shereImage.bind(this);
     }
     onSuccess(imageData) {
-        console.log("in on success imageData = ",imageData);
-           this.setState({imageURL : imageData});
-           console.log('imageURL', this.state.imageURL) //use when the option is FILE_URI
-        // this.setState({ imageURL: "data:image/jpeg;base64," + imageData })
-        this.shereImage()
+        window.plugins.socialsharing.share(
+            null,
+            null /* url */, 
+            // this.state.imageURL /* img */,
+            imageData,
+            null, 
+            );
     }
     onFail(message) {
-        // alert('Failed because: ' + message);
+        alert('Failed because: ' + message);
     }
     cameraTakePicture() {
         console.log(navigator.camera);
@@ -33,15 +33,6 @@ export class Camera extends Component {
         });
     }
    
-    shereImage(){
-        console.log('in whatsapp',this.state.imageURL)
-        window.plugins.socialsharing.share(
-        null,
-        null /* url */, 
-        this.state.imageURL /* img */,
-        null, 
-        );
-    }
     render() {
         return (
             <div className="navbarList" onClick = {() => {this.cameraTakePicture(); this.props.HandleNav()}}>

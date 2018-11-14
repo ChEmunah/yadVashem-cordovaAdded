@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "./static/media/GlidNandor.46bcad75.jpg"
   },
   {
-    "revision": "832056555c26ffdf54de",
-    "url": "./static/css/main.74ed1d91.chunk.css"
+    "revision": "ccbcd8534ada41d3d73a",
+    "url": "./static/css/main.5f59fe9c.chunk.css"
   },
   {
     "revision": "8fff3856536e4eaed2c9",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "./static/media/WarsawGhetto1.6e9c34b7.jpg"
   },
   {
-    "revision": "832056555c26ffdf54de",
-    "url": "./static/js/main.83205655.chunk.js"
+    "revision": "ccbcd8534ada41d3d73a",
+    "url": "./static/js/main.ccbcd853.chunk.js"
   },
   {
     "revision": "c96aacbca71afca261578608fffd89e9",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "./static/media/map.4c6ffc37.jpg"
   },
   {
-    "revision": "9472ae8b75649610cecab9bcce1564b2",
+    "revision": "c98535b16e2e1c3fb0958567a2203eb0",
     "url": "./index.html"
   }
 ];
