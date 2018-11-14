@@ -39,7 +39,8 @@ export class Camera extends Component {
                 <img
                     src={iconCamera} alt="Camera icon" />&nbsp;&nbsp;
                     {this.props.shareAMoment}
-            </div>
+                
+            </div> 
         );
     }
 }
