@@ -4,6 +4,10 @@
         "source": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
     },
     {
+        "merged": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon.png.flat",
+        "source": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
+    },
+    {
         "merged": "/home/chanahemuna/projects/niceapp/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon.png.flat",
         "source": "/home/chanahemuna/projects/niceapp/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
     },
@@ -12,16 +16,24 @@
         "source": "/home/chanahemuna/projects/niceapp/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
     },
     {
-        "merged": "/home/chanahemuna/projects/yadVashemCordova/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxhdpi_screen.png.flat",
-        "source": "/home/chanahemuna/projects/yadVashemCordova/niceapp/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
+        "merged": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-ldpi_screen.png.flat",
+        "source": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png"
+    },
+    {
+        "merged": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-ldpi_screen.png.flat",
+        "source": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png"
     },
     {
         "merged": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxxhdpi_screen.png.flat",
         "source": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png"
     },
     {
-        "merged": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-ldpi_screen.png.flat",
-        "source": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png"
+        "merged": "/home/chanahemuna/projects/yadVashemCordova/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxhdpi_screen.png.flat",
+        "source": "/home/chanahemuna/projects/yadVashemCordova/niceapp/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-ldpi_screen.png.flat",
+        "source": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
     },
     {
         "merged": "/home/chanahemuna/projects/niceapp/platforms/android/app/build/intermediates/res/merged/debug/xml_config.xml.flat",
@@ -32,12 +44,20 @@
         "source": "/home/chanahemuna/projects/yadVashemCordova/niceapp/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png"
     },
     {
+        "merged": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-mdpi_screen.png.flat",
+        "source": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png"
+    },
+    {
         "merged": "/home/chanahemuna/projects/yadVashemCordova/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xhdpi_screen.png.flat",
         "source": "/home/chanahemuna/projects/yadVashemCordova/niceapp/platforms/android/app/src/main/res/drawable-land-xhdpi/screen.png"
     },
     {
         "merged": "/home/chanahemuna/projects/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xhdpi_screen.png.flat",
         "source": "/home/chanahemuna/projects/niceapp/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
+    },
+    {
+        "merged": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxhdpi_screen.png.flat",
+        "source": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png"
     },
     {
         "merged": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-mdpi_screen.png.flat",
@@ -48,12 +68,16 @@
         "source": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
     },
     {
+        "merged": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxhdpi_screen.png.flat",
+        "source": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png"
+    },
+    {
         "merged": "/home/chanahemuna/projects/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxhdpi_screen.png.flat",
         "source": "/home/chanahemuna/projects/niceapp/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
     },
     {
-        "merged": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxhdpi_screen.png.flat",
-        "source": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png"
+        "merged": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-hdpi_screen.png.flat",
+        "source": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png"
     },
     {
         "merged": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/build/intermediates/res/merged/debug/xml_config.xml.flat",
@@ -70,6 +94,10 @@
     {
         "merged": "/home/chanahemuna/projects/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-ldpi_screen.png.flat",
         "source": "/home/chanahemuna/projects/niceapp/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png"
+    },
+    {
+        "merged": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxxhdpi_screen.png.flat",
+        "source": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
     },
     {
         "merged": "/home/chanahemuna/projects/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-mdpi_screen.png.flat",
@@ -104,6 +132,18 @@
         "source": "/home/chanahemuna/projects/yadVashemCordova/niceapp/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
     },
     {
+        "merged": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/build/intermediates/res/merged/debug/xml_sharing_paths.xml.flat",
+        "source": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/src/main/res/xml/sharing_paths.xml"
+    },
+    {
+        "merged": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-hdpi_screen.png.flat",
+        "source": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png"
+    },
+    {
+        "merged": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xhdpi_screen.png.flat",
+        "source": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/src/main/res/drawable-land-xhdpi/screen.png"
+    },
+    {
         "merged": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-hdpi_screen.png.flat",
         "source": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png"
     },
@@ -114,6 +154,10 @@
     {
         "merged": "/home/chanahemuna/projects/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-hdpi_screen.png.flat",
         "source": "/home/chanahemuna/projects/niceapp/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png"
+    },
+    {
+        "merged": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/build/intermediates/res/merged/debug/xml_config.xml.flat",
+        "source": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/src/main/res/xml/config.xml"
     },
     {
         "merged": "/home/chanahemuna/projects/yadVashemCordova/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-hdpi_screen.png.flat",
@@ -130,6 +174,10 @@
     {
         "merged": "/home/chanahemuna/projects/yadVashemCordova/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-mdpi_screen.png.flat",
         "source": "/home/chanahemuna/projects/yadVashemCordova/niceapp/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png"
+    },
+    {
+        "merged": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-mdpi_screen.png.flat",
+        "source": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png"
     },
     {
         "merged": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxxhdpi_screen.png.flat",
@@ -156,6 +204,10 @@
         "source": "/home/ori/projects/yadVashem-cordovaAdded/niceapp/platforms/android/app/src/main/res/drawable-land-xhdpi/screen.png"
     },
     {
+        "merged": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxxhdpi_screen.png.flat",
+        "source": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png"
+    },
+    {
         "merged": "/home/chanahemuna/projects/yadVashemCordova/niceapp/platforms/android/app/build/intermediates/res/merged/debug/xml_camera_provider_paths.xml.flat",
         "source": "/home/chanahemuna/projects/yadVashemCordova/niceapp/platforms/android/app/src/main/res/xml/camera_provider_paths.xml"
     },
@@ -166,6 +218,10 @@
     {
         "merged": "/home/chanahemuna/projects/yadVashemCordova/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xhdpi_screen.png.flat",
         "source": "/home/chanahemuna/projects/yadVashemCordova/niceapp/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
+    },
+    {
+        "merged": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxhdpi_screen.png.flat",
+        "source": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
     },
     {
         "merged": "/home/chanahemuna/projects/yadVashemCordova/niceapp/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon.png.flat",
@@ -190,5 +246,13 @@
     {
         "merged": "/home/chanahemuna/projects/niceapp/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-ldpi_screen.png.flat",
         "source": "/home/chanahemuna/projects/niceapp/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
+    },
+    {
+        "merged": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xhdpi_screen.png.flat",
+        "source": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
+    },
+    {
+        "merged": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/build/intermediates/res/merged/debug/xml_camera_provider_paths.xml.flat",
+        "source": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/src/main/res/xml/camera_provider_paths.xml"
     }
 ]

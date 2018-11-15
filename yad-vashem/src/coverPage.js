@@ -29,6 +29,7 @@ export class CoverPage extends Component {
                         onClick={() => { this.props.history.push(`/${this.props.languageNow.path}/locationsList`) }}>
                         {this.props.languageNow.coverPage.next}
                     </button>
+                        
                 </div>
                 {/* <div className = "loader"></div> */}
             </div>
