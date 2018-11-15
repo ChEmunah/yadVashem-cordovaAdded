@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Switch, Route } from 'react-router-dom';
 import { GoTo } from './GoTo';
+import {CurrentMap} from './tempMap'
 import { Navbar } from './Navbar';
 import { Footer } from './Footer';
 import { Info } from './info';
@@ -43,12 +44,22 @@ export class BodyWrapper extends Component {
                                 languageNow={this.props.languageNow}
                                 direction={this.props.direction} />
                         } />
+
                     <Route path={`/${this.props.languageNow.path}/camera/`}
                         render={(props) =>
                             <Camera {...props}
                                 // passes props to coverPage: what language is chosen, the direction of text, the functions for changing the props in main to a different language
                                 languageNow={this.props.languageNow}
                                 direction={this.props.direction} />
+                        } />
+                      <Route path={`/${this.props.languageNow.path}/thismap`}
+                        render={(props) =>
+
+                       <CurrentMap {...props}
+                                // passes props to coverPage: what language is chosen, the direction of text, the functions for changing the props in main to a different language
+                                // languageNow={this.props.languageNow}
+                                // direction={this.props.direction}
+                                />
                         } />
 
                 </Switch>
