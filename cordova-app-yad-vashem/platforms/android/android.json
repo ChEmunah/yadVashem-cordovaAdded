@@ -22,15 +22,15 @@
           "/*": [
             {
               "xml": "<uses-permission android:name=\"android.permission.CAMERA\" />",
-              "count": 181
+              "count": 183
             },
             {
               "xml": "<uses-feature android:name=\"android.hardware.camera\" />",
-              "count": 181
+              "count": 183
             },
             {
               "xml": "<uses-feature android:name=\"android.hardware.camera.autofocus\" />",
-              "count": 181
+              "count": 183
             },
             {
               "xml": "<uses-permission android:name=\"android.permission.WRITE_EXTERNAL_STORAGE\" />",
