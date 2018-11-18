@@ -38,6 +38,9 @@
         <param name="android-package" value="nl.xservices.plugins.SocialSharing" />
     </feature>
     <plugin name="cordova-plugin-geolocation" spec="^4.0.1" />
+<<<<<<< HEAD
     <plugin name="cordova-plugin-file-transfer" spec="^1.7.1" />
+=======
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
     <engine name="android" spec="^7.1.2" />
 </widget>

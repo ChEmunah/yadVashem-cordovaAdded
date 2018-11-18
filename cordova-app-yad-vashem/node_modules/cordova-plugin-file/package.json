@@ -2,7 +2,11 @@
   "_args": [
     [
       "cordova-plugin-file@>=5.0.0",
+<<<<<<< HEAD
       "/home/ori/projects/yad-vashem-new/cordova-app-yad-vashem"
+=======
+      "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem"
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
     ]
   ],
   "_from": "cordova-plugin-file@>=5.0.0",
@@ -36,7 +40,11 @@
   "_shasum": "49606b8c15a5688d4728f92e4a7325a061de07f5",
   "_shrinkwrap": null,
   "_spec": "cordova-plugin-file@>=5.0.0",
+<<<<<<< HEAD
   "_where": "/home/ori/projects/yad-vashem-new/cordova-app-yad-vashem",
+=======
+  "_where": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem",
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
   "author": {
     "name": "Apache Software Foundation"
   },

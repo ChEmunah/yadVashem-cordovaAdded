@@ -22,6 +22,7 @@
           "/*": [
             {
               "xml": "<uses-permission android:name=\"android.permission.CAMERA\" />",
+<<<<<<< HEAD
               "count": 170
             },
             {
@@ -35,6 +36,21 @@
             {
               "xml": "<uses-permission android:name=\"android.permission.WRITE_EXTERNAL_STORAGE\" />",
               "count": 4
+=======
+              "count": 183
+            },
+            {
+              "xml": "<uses-feature android:name=\"android.hardware.camera\" />",
+              "count": 183
+            },
+            {
+              "xml": "<uses-feature android:name=\"android.hardware.camera.autofocus\" />",
+              "count": 183
+            },
+            {
+              "xml": "<uses-permission android:name=\"android.permission.WRITE_EXTERNAL_STORAGE\" />",
+              "count": 2
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
             },
             {
               "xml": "<uses-permission android:name=\"android.permission.ACCESS_COARSE_LOCATION\" />",
@@ -87,6 +103,7 @@
             {
               "xml": "<feature name=\"Geolocation\"><param name=\"android-package\" value=\"org.apache.cordova.geolocation.Geolocation\" /></feature>",
               "count": 1
+<<<<<<< HEAD
             },
             {
               "xml": "<feature name=\"File\"><param name=\"android-package\" value=\"org.apache.cordova.file.FileUtils\" /><param name=\"onload\" value=\"true\" /></feature>",
@@ -99,6 +116,8 @@
             {
               "xml": "<feature name=\"FileTransfer\"><param name=\"android-package\" value=\"org.apache.cordova.filetransfer.FileTransfer\" /></feature>",
               "count": 1
+=======
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
             }
           ]
         }
@@ -120,12 +139,15 @@
     },
     "cordova-plugin-geolocation": {
       "PACKAGE_NAME": "io.cordova.hellocordova"
+<<<<<<< HEAD
     },
     "cordova-plugin-file": {
       "PACKAGE_NAME": "io.cordova.hellocordova"
     },
     "cordova-plugin-file-transfer": {
       "PACKAGE_NAME": "io.cordova.hellocordova"
+=======
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
     }
   },
   "dependent_plugins": {},
@@ -189,6 +211,7 @@
       "file": "plugins/cordova-plugin-geolocation/www/PositionError.js",
       "pluginId": "cordova-plugin-geolocation",
       "runs": true
+<<<<<<< HEAD
     },
     {
       "id": "cordova-plugin-file.DirectoryEntry",
@@ -378,6 +401,8 @@
       "clobbers": [
         "window.FileTransfer"
       ]
+=======
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
     }
   ],
   "plugin_metadata": {
@@ -385,8 +410,12 @@
     "cordova-plugin-camera": "4.0.3",
     "es6-promise-plugin": "4.2.2",
     "cordova-plugin-x-socialsharing": "5.4.1",
+<<<<<<< HEAD
     "cordova-plugin-geolocation": "4.0.1",
     "cordova-plugin-file": "6.0.1",
     "cordova-plugin-file-transfer": "1.7.1"
+=======
+    "cordova-plugin-geolocation": "4.0.1"
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
   }
 }

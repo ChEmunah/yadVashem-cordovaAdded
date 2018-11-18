@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
   "main.css": "./static/css/main.acc95a7d.chunk.css",
   "main.js": "./static/js/main.37b3c4d7.chunk.js",
   "main.js.map": "./static/js/main.37b3c4d7.chunk.js.map",
+=======
+  "main.css": "./static/css/main.37da8bb3.chunk.css",
+  "main.js": "./static/js/main.c89ceba0.chunk.js",
+  "main.js.map": "./static/js/main.c89ceba0.chunk.js.map",
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
   "static/js/1.8fff3856.chunk.js": "./static/js/1.8fff3856.chunk.js",
   "static/js/1.8fff3856.chunk.js.map": "./static/js/1.8fff3856.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
@@ -17,8 +23,14 @@
   "static/media/BezemAudio.mp3": "./static/media/BezemAudio.52388854.mp3",
   "static/media/map.jpg": "./static/media/map.4c6ffc37.jpg",
   "static/media/CoverPageLogoEnglish.png": "./static/media/CoverPageLogoEnglish.f0335346.png",
+<<<<<<< HEAD
   "static/css/main.acc95a7d.chunk.css.map": "./static/css/main.acc95a7d.chunk.css.map",
   "index.html": "./index.html",
   "precache-manifest.b4c5eded4f70c3895de7cf2a513e2e9d.js": "./precache-manifest.b4c5eded4f70c3895de7cf2a513e2e9d.js",
+=======
+  "static/css/main.37da8bb3.chunk.css.map": "./static/css/main.37da8bb3.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.8e562097cc1e6760cdd2360929317aa1.js": "./precache-manifest.8e562097cc1e6760cdd2360929317aa1.js",
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
   "service-worker.js": "./service-worker.js"
 }

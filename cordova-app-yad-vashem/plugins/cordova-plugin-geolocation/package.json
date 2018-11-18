@@ -2,7 +2,11 @@
   "_args": [
     [
       "cordova-plugin-geolocation@4.0.1",
+<<<<<<< HEAD
       "/home/ori/projects/yad-vashem-new/cordova-app-yad-vashem"
+=======
+      "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem"
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
     ]
   ],
   "_from": "cordova-plugin-geolocation@4.0.1",
@@ -36,7 +40,11 @@
   "_shasum": "4703fa649d2405d25a9a732c99ebf868754a2c04",
   "_shrinkwrap": null,
   "_spec": "cordova-plugin-geolocation@4.0.1",
+<<<<<<< HEAD
   "_where": "/home/ori/projects/yad-vashem-new/cordova-app-yad-vashem",
+=======
+  "_where": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem",
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
   "author": {
     "name": "Apache Software Foundation"
   },

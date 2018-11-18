@@ -59,6 +59,7 @@ module.exports = [
     "file": "plugins/cordova-plugin-geolocation/www/PositionError.js",
     "pluginId": "cordova-plugin-geolocation",
     "runs": true
+<<<<<<< HEAD
   },
   {
     "id": "cordova-plugin-file.DirectoryEntry",
@@ -248,6 +249,8 @@ module.exports = [
     "clobbers": [
       "window.FileTransfer"
     ]
+=======
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
   }
 ];
 module.exports.metadata = 
@@ -257,9 +260,13 @@ module.exports.metadata =
   "cordova-plugin-camera": "4.0.3",
   "es6-promise-plugin": "4.2.2",
   "cordova-plugin-x-socialsharing": "5.4.1",
+<<<<<<< HEAD
   "cordova-plugin-geolocation": "4.0.1",
   "cordova-plugin-file": "6.0.1",
   "cordova-plugin-file-transfer": "1.7.1"
+=======
+  "cordova-plugin-geolocation": "4.0.1"
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
 };
 // BOTTOM OF METADATA
 });

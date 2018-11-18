@@ -12,8 +12,11 @@
   "dependencies": {
     "cordova-android": "^7.1.2",
     "cordova-plugin-camera": "^4.0.3",
+<<<<<<< HEAD
     "cordova-plugin-file": "^6.0.1",
     "cordova-plugin-file-transfer": "^1.7.1",
+=======
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
     "cordova-plugin-geolocation": "^4.0.1",
     "cordova-plugin-whitelist": "^1.3.3",
     "cordova-plugin-x-socialsharing": "^5.4.1",
@@ -24,8 +27,12 @@
       "cordova-plugin-whitelist": {},
       "cordova-plugin-camera": {},
       "cordova-plugin-x-socialsharing": {},
+<<<<<<< HEAD
       "cordova-plugin-geolocation": {},
       "cordova-plugin-file-transfer": {}
+=======
+      "cordova-plugin-geolocation": {}
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
     },
     "platforms": [
       "android"

@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <merger version="3"><dataSet config="main"><source path="/home/ori/projects/yad-vashem-new/cordova-app-yad-vashem/platforms/android/CordovaLib/assets"/><source path="/home/ori/projects/yad-vashem-new/cordova-app-yad-vashem/platforms/android/CordovaLib/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/ori/projects/yad-vashem-new/cordova-app-yad-vashem/platforms/android/CordovaLib/src/debug/assets"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/assets"/><source path="/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/src/debug/assets"/></dataSet></merger>
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712

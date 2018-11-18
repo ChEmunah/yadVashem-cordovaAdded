@@ -18,9 +18,12 @@
     },
     "cordova-plugin-geolocation": {
       "PACKAGE_NAME": "io.cordova.hellocordova"
+<<<<<<< HEAD
     },
     "cordova-plugin-file-transfer": {
       "PACKAGE_NAME": "io.cordova.hellocordova"
+=======
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
     }
   },
   "dependent_plugins": {

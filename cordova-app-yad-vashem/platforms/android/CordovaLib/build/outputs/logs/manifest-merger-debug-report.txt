@@ -1,5 +1,6 @@
 -- Merging decision tree log ---
 manifest
+<<<<<<< HEAD
 ADDED from /home/ori/projects/yad-vashem-new/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:20:1-23:12
 INJECTED from /home/ori/projects/yad-vashem-new/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:20:1-23:12
 INJECTED from /home/ori/projects/yad-vashem-new/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:20:1-23:12
@@ -25,3 +26,30 @@ uses-sdk
 ADDED from /home/ori/projects/yad-vashem-new/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:22:5-44
 	android:minSdkVersion
 		ADDED from /home/ori/projects/yad-vashem-new/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:22:15-41
+=======
+ADDED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:20:1-23:12
+INJECTED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:20:1-23:12
+INJECTED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:20:1-23:12
+INJECTED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:20:1-23:12
+INJECTED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:20:1-23:12
+INJECTED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:20:1-23:12
+INJECTED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:20:1-23:12
+	package
+		ADDED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:21:7-35
+		INJECTED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml
+		INJECTED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:21:36-61
+		INJECTED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml
+		INJECTED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:21:62-85
+		INJECTED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml
+		INJECTED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml
+uses-sdk
+ADDED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:22:5-44
+	android:minSdkVersion
+		ADDED from /home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/CordovaLib/AndroidManifest.xml:22:15-41
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712

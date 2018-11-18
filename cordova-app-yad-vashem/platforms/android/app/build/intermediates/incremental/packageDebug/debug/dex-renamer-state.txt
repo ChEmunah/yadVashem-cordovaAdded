@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #Wed Nov 14 17:31:31 IST 2018
 base.0=/home/ori/projects/yad-vashem-new/cordova-app-yad-vashem/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+=======
+#Thu Nov 15 17:53:46 IST 2018
+base.0=/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
 path.0=classes.dex
 renamed.0=classes.dex

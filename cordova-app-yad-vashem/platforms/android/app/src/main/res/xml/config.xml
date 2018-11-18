@@ -13,6 +13,7 @@
     <feature name="Geolocation">
         <param name="android-package" value="org.apache.cordova.geolocation.Geolocation" />
     </feature>
+<<<<<<< HEAD
     <feature name="File">
         <param name="android-package" value="org.apache.cordova.file.FileUtils" />
         <param name="onload" value="true" />
@@ -21,6 +22,8 @@
     <feature name="FileTransfer">
         <param name="android-package" value="org.apache.cordova.filetransfer.FileTransfer" />
     </feature>
+=======
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
     <name>yad vashem</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.

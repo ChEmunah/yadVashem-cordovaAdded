@@ -2,7 +2,11 @@
   "_args": [
     [
       "cordova-plugin-file-transfer",
+<<<<<<< HEAD
       "/home/ori/projects/yad-vashem-new/cordova-app-yad-vashem"
+=======
+      "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem"
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
     ]
   ],
   "_from": "cordova-plugin-file-transfer@latest",
@@ -36,7 +40,11 @@
   "_shasum": "a75d8be2ebc3bb9b23c5b1bbd199214ec267586b",
   "_shrinkwrap": null,
   "_spec": "cordova-plugin-file-transfer",
+<<<<<<< HEAD
   "_where": "/home/ori/projects/yad-vashem-new/cordova-app-yad-vashem",
+=======
+  "_where": "/home/chanahemuna/projects/yadVashemCordova/cordova-app-yad-vashem",
+>>>>>>> 80cde5844a969adf39d4c223fcf6faa000da7712
   "author": {
     "name": "Apache Software Foundation"
   },
